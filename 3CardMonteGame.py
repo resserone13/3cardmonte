@@ -122,7 +122,7 @@ class Main(Scene):
 		self.reveal = False
 		self.place_bet = False
 		self.currency_type  = '$'
-		self.bankroll_amount = 100_000
+		self.bankroll_amount = 10_000
 		self.stake_amount = 0
 		self.floating_stakes = 0
 		self.status = ''
