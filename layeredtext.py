@@ -1,4 +1,4 @@
-
+from scène import LabelNode
 
 
 def layered_text(self, text, font, size, x, y, x_offset, y_offset, *colors, **kwargs):
